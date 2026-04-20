@@ -2,3 +2,4 @@
 4g-lte-2024-mobile-signal-measurement-data.zip filter=lfs diff=lfs merge=lfs -text
 5g-nr-2024-mobile-signal-measurement-data.zip filter=lfs diff=lfs merge=lfs -text
 5g-nr-2025-mobile-signal-measurement-data.zip filter=lfs diff=lfs merge=lfs -text
+4g-lte-2024-mobile-signal-measurement-data-with-towers.tar.gz filter=lfs diff=lfs merge=lfs -text
